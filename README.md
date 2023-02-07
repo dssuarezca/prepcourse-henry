@@ -1,2 +1,2 @@
 # prepcourse-henry
-este es un repositio del modulo 2
+este es una prueba de clonar un escorito en local
